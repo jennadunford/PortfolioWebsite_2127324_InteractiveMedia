@@ -7,16 +7,17 @@ body {
   list-style-type: none;
 
   margin: auto;
+  margin-left: 33%;
   padding: 5%;
-  width: 22%;
+  width: 30%;
 
   margin-top: -5%;
 
   display: grid;
-  grid-template-rows: 50px 50px;
-  grid-template-columns: 90px 90px 90px;
-  column-gap: 10px;
-  row-gap: 5px;
+  grid-template-rows: 15% 15%;
+  grid-template-columns: 22% 22% 22%;
+  column-gap: 3%;
+  row-gap: 50%;
 
   font-size: 20px;
 }
