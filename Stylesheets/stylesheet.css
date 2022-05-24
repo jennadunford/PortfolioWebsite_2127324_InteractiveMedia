@@ -25,6 +25,7 @@ body {
 }
 
 .contactContent {
+  font-weight: lighter;
   margin-top: -5%;
   text-align: center;
 }
@@ -245,4 +246,95 @@ div.readText {
 h3.aboutSubtitle {
   font-weight: lighter;
   font-size: 40px;
+}
+
+section.BlogContent {
+  display: block;
+  margin: auto;
+  width: 90%;
+  height: auto;
+
+  padding: 2%;
+
+  margin-top: -8%;
+}
+
+h3.blogDatePosted {
+  font-weight: lighter;
+  font-size: 30px;
+}
+
+.blogText {
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+ol.blogReferenceList {
+  margin-top: -1%;
+  list-style-type: none;
+  font-weight: lighter;
+}
+
+li.blogReferenceItem {
+  padding: 0.5%;
+}
+
+h4.referencesTitle {
+  font-weight: lighter;
+  font-size: 20px;
+}
+
+a.blogReturn {
+  text-decoration: none;
+  font-weight: lighter;
+  color: black;
+  display: block;
+  background-color: #c4c3d0;
+  width: 15%;
+
+  text-align: center;
+
+  border-radius: 3px;
+}
+
+a.blogReturn:hover {
+  font-weight: lighter;
+  text-decoration: none;
+  color: #c4c3d0;
+  display: block;
+  background-color: black;
+  width: 15%;
+
+  text-align: center;
+
+  border-radius: 3px;
+}
+
+a.referenceAccess {
+  text-decoration: none;
+
+  color: black;
+  display: block;
+  background-color: #c4c3d0;
+  width: 13%;
+  text-align: center;
+  border-radius: 3px;
+}
+
+a.referenceAccess:hover {
+  text-decoration: none;
+  color: #c4c3d0;
+  display: block;
+  background-color: black;
+  width: 13%;
+  text-align: center;
+  border-radius: 3px;
+}
+
+.blogReferenceList {
+  font-size: 18px;
+}
+
+h4.blogSubtitle {
+  font-weight: lighter;
 }
