@@ -8,15 +8,18 @@ body {
 
   margin: auto;
   padding: 5%;
-  width: 22%;
+  width: 30%;
 
-  margin-top: -5%;
+  text-align: center;
+
+  margin-top: -4%;
+  margin-left: 35%;
 
   display: grid;
   grid-template-rows: 50px 50px;
   grid-template-columns: 90px 90px 90px;
-  column-gap: 10px;
-  row-gap: 5px;
+  column-gap: 3px;
+  row-gap: 1px;
 
   font-size: 20px;
 }
@@ -31,7 +34,7 @@ body {
   grid-template-rows: 50px 50px 50px 50px 50px;
   grid-template-columns: 90px;
 
-  row-gap: 10px;
+  row-gap: 5px;
 
   margin-top: -5%;
 
