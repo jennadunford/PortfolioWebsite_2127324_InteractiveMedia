@@ -24,6 +24,39 @@ body {
   font-size: 20px;
 }
 
+ul.decisionTable {
+  list-style-type: none;
+
+  width: 89%;
+
+  margin: auto;
+
+  display: grid;
+  grid-template-rows: 100px 100px 100px 100px 100px;
+  grid-template-columns: 600px 600px;
+
+  padding: 1%;
+}
+
+.designTables {
+  margin-top: -7%;
+}
+
+.wireFrames {
+  margin-top: -5%;
+}
+
+h3.designSubHeading {
+  text-align: center;
+  font-weight: lighter;
+  font-size: 30px;
+}
+
+li.decisionTableItem {
+  border: 1px solid black;
+  padding: 1%;
+}
+
 .contactContent {
   font-weight: lighter;
   margin-top: -5%;
