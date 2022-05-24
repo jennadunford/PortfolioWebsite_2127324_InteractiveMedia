@@ -24,6 +24,48 @@ body {
   font-size: 20px;
 }
 
+.contactContent {
+  margin-top: -5%;
+  text-align: center;
+}
+
+.contactInfo {
+  list-style-type: none;
+  width: 48%;
+  margin: auto;
+  display: grid;
+  grid-template-rows: 100px 50px;
+  grid-template-columns: 200px 200px 200px;
+  column-gap: 5px;
+}
+
+.contactInfoItem {
+  border: 1px solid black;
+  padding: 1%;
+  font-weight: lighter;
+  text-decoration: none;
+}
+
+a.contactInfoItem1 {
+  text-decoration: none;
+  color: black;
+  padding: 1%;
+}
+
+li.contactInfoItem a.contactInfoItem1:hover {
+  text-decoration: none;
+  display: block;
+  border-radius: 3px;
+  background-color: #c4c3d0;
+  text-decoration: none;
+  color: black;
+  padding: 1%;
+}
+img.contactImage {
+  width: 50%;
+  height: auto;
+}
+
 .designList {
   list-style-type: none;
   margin: auto;
