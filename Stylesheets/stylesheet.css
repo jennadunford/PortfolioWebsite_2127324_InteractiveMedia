@@ -371,3 +371,110 @@ a.referenceAccess:hover {
 h4.blogSubtitle {
   font-weight: lighter;
 }
+
+h3.artTitle {
+  font-weight: lighter;
+  text-align: center;
+  margin-top: -5%;
+}
+
+h4.artBookTitle {
+  font-weight: lighter;
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  position: absolute;
+  display: block;
+  width: 98%;
+  margin-top: 5%;
+  background-color: black;
+  padding: 1%;
+  z-index: 999;
+}
+
+img.adventureImg {
+  width: 60%;
+  height: auto;
+  margin-left: 10%;
+  transition: transform 0.2s;
+}
+
+img.adventureImg:hover {
+  transform: scale(3);
+}
+
+img.monsterImg {
+  width: 50%;
+  margin-left: 20%;
+  transition: transform 0.2s;
+}
+
+img.monsterImg:hover {
+  transform: scale(2);
+}
+
+img.icyImg {
+  width: 90%;
+  height: auto;
+  transition: transform 0.2s;
+}
+
+img.icyImg:hover {
+  transform: scale(2.3);
+}
+
+#portfolio {
+  width: 1300px;
+  height: 400px;
+  margin: auto;
+}
+#portfolio .turn-page {
+  background-color: #c4c3d0;
+}
+
+img.artBookCover {
+  width: 100%;
+  height: auto;
+  margin-top: 18%;
+  transition: transform 0.2s;
+}
+
+img.artBookCover:hover {
+  transform: scale(3);
+}
+
+img.toolsImage {
+  width: 100%;
+  height: auto;
+  transition: transform 0.2s;
+}
+
+img.toolsImage:hover {
+  transform: scale(2);
+}
+.artBook1 {
+  position: relative;
+  text-align: center;
+}
+
+.artBook2 {
+  padding: 2%;
+}
+
+h5.artSectionTitle {
+  font-weight: lighter;
+  font-size: 30px;
+  margin-top: 2%;
+  margin-left: 1%;
+}
+
+article.artBookDescription {
+  display: block;
+  width: 90%;
+  font-weight: lighter;
+  font-size: 20px;
+  padding: 2%;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+}
