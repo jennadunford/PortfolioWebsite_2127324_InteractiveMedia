@@ -423,6 +423,279 @@ img.icyImg:hover {
   transform: scale(2.3);
 }
 
+img.fFlowerShopImg {
+  width: 57%;
+  height: auto;
+  margin-left: 20%;
+  transition: transform 0.2s;
+}
+
+img.fFlowerShopImg:hover {
+  transform: scale(2);
+}
+
+img.bFlowerShopImg {
+  width: 62%;
+  margin-left: 20%;
+  height: auto;
+  transition: transform 0.2s;
+}
+
+img.bFlowerShopImg:hover {
+  transform: scale(2);
+}
+
+img.cWitchImg {
+  width: 65%;
+  height: auto;
+  margin-left: 20%;
+  transition: transform 0.2s;
+}
+img.cWitchImg:hover {
+  transform: scale(1.5);
+}
+
+img.fCityWitch {
+  width: 65%;
+  height: auto;
+  margin-left: 20%;
+  transition: transform 0.2s;
+}
+
+img.fCityWitch:hover {
+  transform: scale(1.5);
+}
+
+img.cthingsImg {
+  width: 50%;
+  height: auto;
+  margin-left: 20%;
+  transition: transform 0.2s;
+}
+
+img.cthingsImg:hover {
+  transform: scale(2.5);
+}
+
+img.skyWitchImg {
+  width: 80%;
+  height: auto;
+  margin-left: 15%;
+  transition: transform 0.2s;
+}
+
+img.skyWitchImg:hover {
+  transform: scale(2);
+}
+
+img.stairWitchImg {
+  width: 50%;
+  height: auto;
+  margin-left: 20%;
+  transition: transform 0.2s;
+}
+
+img.stairWitchImg:hover {
+  transform: scale(1.5);
+}
+
+img.morningWitchesImg {
+  width: 65%;
+  height: auto;
+  margin-left: 20%;
+  transition: transform 0.2s;
+}
+
+img.morningWitchesImg:hover {
+  transform: scale(1.5);
+}
+
+img.nightWitchesImg {
+  width: 65%;
+  height: auto;
+  margin-left: 20%;
+  transition: transform 0.2s;
+}
+
+img.nightWitchesImg:hover {
+  transform: scale(1.5);
+}
+
+img.animeRetroImg {
+  width: 65%;
+  height: auto;
+  margin-left: 20%;
+  transition: transform 0.2s;
+}
+
+img.animeRetroImg:hover {
+  transform: scale(1.5);
+}
+
+img.cherryGirlImg {
+  width: 80%;
+  height: auto;
+  margin-left: 10%;
+  transition: transform 0.2s;
+}
+
+img.cherryGirlImg:hover {
+  transform: scale(1.5);
+}
+
+img.benchtWitchImg {
+  width: 45%;
+  height: auto;
+  margin-left: 20%;
+  transition: transform 0.2s;
+}
+
+img.benchtWitchImg:hover {
+  transform: scale(3);
+}
+
+img.flyingWitchImg {
+  width: 45%;
+  height: auto;
+  margin-left: 20%;
+  transition: transform 0.2s;
+}
+
+img.flyingWitchImg:hover {
+  transform: scale(3);
+}
+
+img.colorfulPortraitImg {
+  width: 80%;
+  height: auto;
+  margin-left: 10%;
+  transition: transform 0.2s;
+}
+img.colorfulPortraitImg:hover {
+  transform: scale(1.5);
+}
+
+img.fieldImg {
+  width: 100%;
+  height: auto;
+  transition: transform 0.2s;
+  margin-top: 2%;
+}
+
+img.fieldImg:hover {
+  transform: scale(1.5);
+}
+
+img.flowImg {
+  width: 90%;
+  height: auto;
+  margin-left: 5%;
+  transition: transform 0.2s;
+}
+
+img.flowImg:hover {
+  transform: scale(1.5);
+}
+
+img.handsImg {
+  width: 65%;
+  height: auto;
+  margin-left: 20%;
+  transition: transform 0.2s;
+}
+
+img.handsImg:hover {
+  transform: scale(1.5);
+}
+
+img.sAndMoonImg {
+  width: 65%;
+  height: auto;
+  margin-left: 20%;
+  transition: transform 0.2s;
+}
+
+img.sAndMoonImg:hover {
+  transform: scale(1.5);
+}
+
+img.nightWaterImg {
+  width: 50%;
+  height: auto;
+  margin-left: 20%;
+  transition: transform 0.2s;
+}
+
+img.nightWaterImg:hover {
+  transform: scale(1.5);
+}
+
+img.rainicornImg {
+  width: 40%;
+  height: auto;
+  margin-left: 30%;
+  transition: transform 0.2s;
+}
+
+img.rainicornImg:hover {
+  margin-top: -35%;
+  transform: scale(2);
+}
+
+img.ponyoImg {
+  width: 45%;
+  height: auto;
+  margin-left: 30%;
+  transition: transform 0.2s;
+}
+
+img.ponyoImg:hover {
+  margin-top: -30%;
+  transform: scale(2);
+}
+
+img.fAndJakeImg {
+  width: 100%;
+  height: auto;
+  transition: transform 0.2s;
+}
+
+img.fAndJakeImg:hover {
+  transform: scale(2);
+}
+
+img.gokuImg {
+  width: 100%;
+  height: auto;
+  transition: transform 0.2s;
+}
+
+img.gokuImg:hover {
+  transform: scale(2);
+}
+
+img.linkImg {
+  width: 80%;
+  height: auto;
+  margin-left: 10%;
+  transition: transform 0.2s;
+}
+
+img.linkImg:hover {
+  transform: scale(2);
+}
+
+img.archerImg {
+  width: 50%;
+  height: auto;
+  margin-left: 30%;
+  transition: transform 0.2s;
+}
+
+img.archerImg:hover {
+  transform: scale(2);
+}
+
 #portfolio {
   width: 1300px;
   height: 400px;
@@ -466,6 +739,10 @@ h5.artSectionTitle {
   font-size: 30px;
   margin-top: 2%;
   margin-left: 1%;
+}
+
+body.bArt {
+  overflow: hidden;
 }
 
 article.artBookDescription {
