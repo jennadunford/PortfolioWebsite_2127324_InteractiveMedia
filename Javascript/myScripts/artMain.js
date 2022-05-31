@@ -2,7 +2,7 @@ $(window).ready(function () {
   $("#portfolio").turn({
     display: "double",
     acceleration: true,
-    gradients: false,
+    gradients: true,
   });
 });
 
