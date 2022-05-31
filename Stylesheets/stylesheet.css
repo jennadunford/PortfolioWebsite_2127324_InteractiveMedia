@@ -741,9 +741,9 @@ h5.artSectionTitle {
   margin-left: 1%;
 }
 
-/*body.bArt {
+body.bArt {
   overflow: hidden;
-}*/
+}
 
 article.artBookDescription {
   display: block;
@@ -754,4 +754,84 @@ article.artBookDescription {
   border-style: solid;
   border-color: black;
   border-width: 1px;
+}
+
+div.table_of_contents_artBook {
+  margin-top: -40%;
+  width: 20%;
+  margin-left: 2%;
+}
+
+.artContents {
+  font-weight: lighter;
+  font-size: 30px;
+}
+
+ul.art_list_of_contents {
+  list-style-type: none;
+  margin-top: -15%;
+
+  margin-left: -20%;
+  display: grid;
+  grid-template-columns: 200px 200px 200px 200px 200px 200px 200px 200px;
+  grid-template-rows: 20px;
+  column-gap: 0px;
+}
+
+/* li.artIndex {
+  padding: 1%;
+  display: block;
+  background-color: antiquewhite;
+  width: 50%;
+  border-radius: 2px;
+} */
+
+button.artButton {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  /* cursor: pointer; */
+  outline: inherit;
+
+  display: block;
+  background-color: #c4c3d0;
+  width: 60%;
+  height: 100%;
+  border-radius: 2px;
+}
+
+button.artButton:hover {
+  background-color: black;
+  color: #c4c3d0;
+}
+
+button.artButton1 {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  /* cursor: pointer; */
+  outline: inherit;
+
+  display: block;
+  background-color: #c4c3d0;
+  width: 70%;
+  border-radius: 2px;
+}
+
+button.artButton1:hover {
+  background-color: black;
+  color: #c4c3d0;
+}
+
+ul.bookNavButtons {
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: 50px 50px;
+  grid-template-rows: 20px;
+  margin-top: -4%;
+  margin-left: 43%;
 }
