@@ -587,9 +587,9 @@ img.fieldImg:hover {
 }
 
 img.flowImg {
-  width: 90%;
+  width: 70%;
   height: auto;
-  margin-left: 5%;
+  margin-left: 15%;
   transition: transform 0.2s;
 }
 
