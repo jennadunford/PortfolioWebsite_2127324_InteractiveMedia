@@ -741,9 +741,9 @@ h5.artSectionTitle {
   margin-left: 1%;
 }
 
-body.bArt {
+/*body.bArt {
   overflow: hidden;
-}
+}*/
 
 article.artBookDescription {
   display: block;
