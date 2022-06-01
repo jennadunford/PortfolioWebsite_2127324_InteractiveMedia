@@ -1,5 +1,6 @@
 $(window).on("click", "#home", function () {
   $.ajax({
+    type: "HEAD",
     url: "PortfolioWebsite_2127324_InteractiveMedia/index.html",
     success: function () {
       window.location.pathname =
