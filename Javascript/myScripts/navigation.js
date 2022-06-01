@@ -5,13 +5,15 @@ $(window).on("click", "#home", function () {
     success: function () {
       window.location.pathname =
         "PortfolioWebsite_2127324_InteractiveMedia/index.html";
+      console.log("The home page existed on github");
     },
     error: function () {
       window.location.pathname = "../../index.html";
+      console.log("home page not existing on github, assume on live server");
     },
   });
-  // window.location.pathname =
-  //   "PortfolioWebsite_2127324_InteractiveMedia/index.html";
+  window.location.pathname =
+    "PortfolioWebsite_2127324_InteractiveMedia/index.html";
 });
 
 $(window).on("click", "#about", function () {
