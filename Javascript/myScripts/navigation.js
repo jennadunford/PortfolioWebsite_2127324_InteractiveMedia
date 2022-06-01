@@ -1,7 +1,8 @@
 console.log(window.location.hostname);
 
 $(window).on("click", "#home", function () {
-  window.location.pathname = window.location.hostname + "/../index.html";
+  window.location.pathname =
+    "PortfolioWebsite_2127324_InteractiveMedia/index.html";
 });
 
 $(window).on("click", "#about", function () {
