@@ -17,3 +17,4 @@ The website consists of:
 
 # Known Issues
 - The Javascript driven navigation is not currently working. The reason is unknown. It does work on the Live Server plugin used to test the website.
+- Update - it is kind of working now, but it is severely hacky.
