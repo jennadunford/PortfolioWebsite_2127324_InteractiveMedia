@@ -18,6 +18,7 @@ $(window).on("click", "#home", function () {
 
 $(window).on("click", "#about", function () {
   $.ajax({
+    type: "HEAD",
     url: "PortfolioWebsite_2127324_InteractiveMedia/1_About/about.html",
     success: function () {
       window.location.pathname =
@@ -34,6 +35,7 @@ $(window).on("click", "#about", function () {
 
 $(window).on("click", "#art", function () {
   $.ajax({
+    type: "HEAD",
     url: "PortfolioWebsite_2127324_InteractiveMedia/2_Art/art.html",
     success: function () {
       window.location.pathname =
@@ -50,6 +52,7 @@ $(window).on("click", "#art", function () {
 
 $(window).on("click", "#blogs", function () {
   $.ajax({
+    type: "HEAD",
     url: "PortfolioWebsite_2127324_InteractiveMedia/3_Blogs/blogHome.html",
     success: function () {
       window.location.pathname =
@@ -66,6 +69,7 @@ $(window).on("click", "#blogs", function () {
 
 $(window).on("click", "#design", function () {
   $.ajax({
+    type: "HEAD",
     url: "PortfolioWebsite_2127324_InteractiveMedia/4_Design/designHome.html",
     success: function () {
       window.location.pathname =
@@ -82,6 +86,7 @@ $(window).on("click", "#design", function () {
 
 $(window).on("click", "#contact", function () {
   $.ajax({
+    type: "HEAD",
     url: "PortfolioWebsite_2127324_InteractiveMedia/5_Contact/contact.html",
     success: function () {
       window.location.pathname =
@@ -98,6 +103,7 @@ $(window).on("click", "#contact", function () {
 
 $(window).on("click", "#wireframes", function () {
   $.ajax({
+    type: "HEAD",
     url: "PortfolioWebsite_2127324_InteractiveMedia/4_Design/wireframes.html",
     success: function () {
       window.location.pathname =
@@ -114,6 +120,7 @@ $(window).on("click", "#wireframes", function () {
 
 $(window).on("click", "#decisions", function () {
   $.ajax({
+    type: "HEAD",
     url: "PortfolioWebsite_2127324_InteractiveMedia/4_Design/designDecisions.html",
     success: function () {
       window.location.pathname =
@@ -130,6 +137,7 @@ $(window).on("click", "#decisions", function () {
 
 $(window).on("click", "#inspirations", function () {
   $.ajax({
+    type: "HEAD",
     url: "PortfolioWebsite_2127324_InteractiveMedia/4_Design/inspirations.html",
     success: function () {
       window.location.pathname =
@@ -146,6 +154,7 @@ $(window).on("click", "#inspirations", function () {
 
 $(window).on("click", "#reflections", function () {
   $.ajax({
+    type: "HEAD",
     url: "PortfolioWebsite_2127324_InteractiveMedia/4_Design/reflections.html",
     success: function () {
       window.location.pathname =
@@ -162,6 +171,7 @@ $(window).on("click", "#reflections", function () {
 
 $(window).on("click", "#uxui", function () {
   $.ajax({
+    type: "HEAD",
     url: "PortfolioWebsite_2127324_InteractiveMedia/4_Design/uxAndui.html",
     success: function () {
       window.location.pathname =
@@ -178,6 +188,7 @@ $(window).on("click", "#uxui", function () {
 
 $(window).on("click", "#blog1", function () {
   $.ajax({
+    type: "HEAD",
     url: "PortfolioWebsite_2127324_InteractiveMedia/3_Blogs/blog1.html",
     success: function () {
       window.location.pathname =
@@ -194,6 +205,7 @@ $(window).on("click", "#blog1", function () {
 
 $(window).on("click", "#blog2", function () {
   $.ajax({
+    type: "HEAD",
     url: "PortfolioWebsite_2127324_InteractiveMedia/3_Blogs/blog2.html",
     success: function () {
       window.location.pathname =
@@ -210,6 +222,7 @@ $(window).on("click", "#blog2", function () {
 
 $(window).on("click", "#blog3", function () {
   $.ajax({
+    type: "HEAD",
     url: "PortfolioWebsite_2127324_InteractiveMedia/3_Blogs/blog3.html",
     success: function () {
       window.location.pathname =
@@ -226,6 +239,7 @@ $(window).on("click", "#blog3", function () {
 
 $(window).on("click", "#blog4", function () {
   $.ajax({
+    type: "HEAD",
     url: "PortfolioWebsite_2127324_InteractiveMedia/3_Blogs/blog4.html",
     success: function () {
       window.location.pathname =
@@ -242,6 +256,7 @@ $(window).on("click", "#blog4", function () {
 
 $(window).on("click", "#blog5", function () {
   $.ajax({
+    type: "HEAD",
     url: "PortfolioWebsite_2127324_InteractiveMedia/3_Blogs/blog5.html",
     success: function () {
       window.location.pathname =
@@ -258,6 +273,7 @@ $(window).on("click", "#blog5", function () {
 
 $(window).on("click", "#blog6", function () {
   $.ajax({
+    type: "HEAD",
     url: "PortfolioWebsite_2127324_InteractiveMedia/3_Blogs/blog6.html",
     success: function () {
       window.location.pathname =
@@ -273,6 +289,7 @@ $(window).on("click", "#blog6", function () {
 
 $(window).on("click", "#reflectionBlog", function () {
   $.ajax({
+    type: "HEAD",
     url: "PortfolioWebsite_2127324_InteractiveMedia/3_Blogs/blogReflect.html",
     success: function () {
       window.location.pathname =
