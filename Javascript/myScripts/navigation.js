@@ -1,7 +1,7 @@
 console.log(window.location.pathname);
 
 $(window).on("click", "#home", function () {
-  window.location.assign("/../../index.html");
+  window.location.pathname = window.location.hostname + "/../../index.html";
 });
 
 $(window).on("click", "#about", function () {
