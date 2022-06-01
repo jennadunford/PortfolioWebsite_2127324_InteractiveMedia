@@ -32,7 +32,7 @@ ul.decisionTable {
   margin: auto;
 
   display: grid;
-  grid-template-rows: 100px 100px 100px 100px 100px;
+  /* grid-template-rows: 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px; */
   grid-template-columns: 600px 600px;
 
   padding: 1%;
@@ -838,4 +838,10 @@ ul.bookNavButtons {
   grid-template-rows: 20px;
   margin-top: -4%;
   margin-left: 43%;
+}
+
+section.designReflection {
+  margin-left: 10%;
+  padding: 10%;
+  margin-top: -15%;
 }
