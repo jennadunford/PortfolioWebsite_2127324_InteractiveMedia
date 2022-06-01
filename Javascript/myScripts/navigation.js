@@ -1,5 +1,5 @@
 $(window).on("click", "#home", function () {
-  window.location.href = "../../index.html";
+  window.location.href = "../../../index.html";
 });
 
 $(window).on("click", "#about", function () {
