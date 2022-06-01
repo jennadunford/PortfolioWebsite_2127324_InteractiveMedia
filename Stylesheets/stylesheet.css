@@ -139,6 +139,7 @@ li.designListItem a:hover {
   display: block;
   background-color: black;
   padding: 5%;
+  cursor: pointer;
   border-radius: 3px;
 }
 
