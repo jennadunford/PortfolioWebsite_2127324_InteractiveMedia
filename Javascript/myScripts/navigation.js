@@ -1,7 +1,7 @@
-console.log(window.location.pathname);
+console.log(window.location.hostname);
 
 $(window).on("click", "#home", function () {
-  window.location.pathname = window.location.hostname + "/../../index.html";
+  window.location.pathname = "/../../index.html";
 });
 
 $(window).on("click", "#about", function () {
