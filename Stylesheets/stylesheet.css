@@ -875,6 +875,28 @@ img.wireframeImg {
   }
 }
 
+@media only screen and (max-device-width: 700px) {
+  .Web_Nav_Bar {
+    list-style-type: none;
+
+    padding: 5%;
+    width: 30%;
+
+    text-align: center;
+
+    margin-top: -4%;
+    margin-left: 10%;
+
+    display: grid;
+    grid-template-rows: 50px 50px;
+    grid-template-columns: 90px 90px 90px;
+    column-gap: 3px;
+    row-gap: 1px;
+
+    font-size: 20px;
+  }
+}
+
 @media only screen and (max-device-width: 1024px) {
   .artContentHide {
     display: none;
@@ -901,7 +923,7 @@ img.wireframeImg {
     text-align: center;
 
     margin-top: -4%;
-    margin-left: 15%;
+    margin-left: 20%;
 
     display: grid;
     grid-template-rows: 50px 50px;
