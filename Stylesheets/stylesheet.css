@@ -860,3 +860,9 @@ h4.designSubtitle {
 img.wireframeImg {
   margin-left: 25%;
 }
+
+@media screen and (max-width: 1024px) {
+  .artContentHide {
+    display: none;
+  }
+}
