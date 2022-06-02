@@ -880,6 +880,7 @@ img.wireframeImg {
     display: none;
   }
   .mobileView {
+    max-width: 100%;
     display: contents;
   }
 
@@ -911,6 +912,6 @@ img.wireframeImg {
   }
 }
 img.mobileImg {
-  width: 100em;
+  width: 50%;
   height: auto;
 }
