@@ -911,6 +911,20 @@ img.wireframeImg {
 
     font-size: 20px;
   }
+
+  h4.artBookTitle {
+    font-weight: lighter;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    display: block;
+    width: 100%;
+    margin-top: 5%;
+    background-color: black;
+    padding: 1%;
+    z-index: 999;
+  }
 }
 img.mobileImg {
   width: 90%;
