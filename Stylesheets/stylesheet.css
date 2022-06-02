@@ -884,7 +884,28 @@ img.wireframeImg {
   }
 
   body.bArt {
-    overflow: visible;
+    overflow: scroll;
+  }
+
+  .Web_Nav_Bar {
+    list-style-type: none;
+
+    margin: auto;
+    padding: 5%;
+    width: 30%;
+
+    text-align: center;
+
+    margin-top: -4%;
+    margin-left: 20%;
+
+    display: grid;
+    grid-template-rows: 50px 50px;
+    grid-template-columns: 90px 90px 90px;
+    column-gap: 3px;
+    row-gap: 1px;
+
+    font-size: 20px;
   }
 }
 
