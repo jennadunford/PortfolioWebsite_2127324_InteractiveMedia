@@ -861,6 +861,10 @@ img.wireframeImg {
   margin-left: 25%;
 }
 
+.mobileView {
+  display: contents;
+}
+
 @media only screen and (min-device-width: 1024px) {
   .mobileView {
     display: none;
