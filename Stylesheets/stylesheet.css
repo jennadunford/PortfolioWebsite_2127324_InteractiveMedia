@@ -885,7 +885,7 @@ img.wireframeImg {
     text-align: center;
 
     margin-top: -4%;
-    margin-left: 10%;
+    margin-left: 0%;
 
     display: grid;
     grid-template-rows: 50px 50px;
@@ -903,7 +903,7 @@ img.wireframeImg {
   }
   .mobileView {
     max-width: 100%;
-    padding: 2%;
+    padding: 3%;
     display: contents;
   }
 
@@ -923,7 +923,7 @@ img.wireframeImg {
     text-align: center;
 
     margin-top: -4%;
-    margin-left: 20%;
+    margin-left: 30%;
 
     display: grid;
     grid-template-rows: 50px 50px;
