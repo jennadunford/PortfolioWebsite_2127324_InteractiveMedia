@@ -866,3 +866,9 @@ img.wireframeImg {
     display: none;
   }
 }
+
+@media only screen and (min-device-width: 600px) {
+  .mobileView {
+    display: none;
+  }
+}
