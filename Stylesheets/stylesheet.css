@@ -947,6 +947,10 @@ img.wireframeImg {
     padding: 1%;
     z-index: 999;
   }
+
+  div.artBook1 {
+    width: 100%;
+  }
 }
 img.mobileImg {
   width: 90%;
