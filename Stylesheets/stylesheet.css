@@ -910,3 +910,7 @@ img.wireframeImg {
     font-size: 20px;
   }
 }
+img.mobileImg {
+  max-width: 100%;
+  height: auto;
+}
