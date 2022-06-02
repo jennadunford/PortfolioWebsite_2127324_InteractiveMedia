@@ -879,6 +879,9 @@ img.wireframeImg {
   .artContentHide {
     display: none;
   }
+  .mobileView {
+    display: contents;
+  }
 }
 
 @media only screen and (max-device-width: 768px) {
