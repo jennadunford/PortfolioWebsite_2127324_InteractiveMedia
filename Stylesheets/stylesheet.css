@@ -905,6 +905,7 @@ img.wireframeImg {
     max-width: 100%;
     padding: 3%;
     display: contents;
+    margin-left: 5%;
   }
 
   body.bArt {
