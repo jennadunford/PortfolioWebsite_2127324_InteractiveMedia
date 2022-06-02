@@ -892,14 +892,13 @@ img.wireframeImg {
   .Web_Nav_Bar {
     list-style-type: none;
 
-    margin: auto;
     padding: 5%;
     width: 30%;
 
     text-align: center;
 
     margin-top: -4%;
-    margin-left: 5%;
+    margin-left: 1%;
 
     display: grid;
     grid-template-rows: 50px 50px;
