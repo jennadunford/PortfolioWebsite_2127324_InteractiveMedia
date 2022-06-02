@@ -875,7 +875,7 @@ img.wireframeImg {
   }
 }
 
-@media only screen and (max-device-width: 480px) {
+@media only screen and (max-device-width: 320px) {
   .Web_Nav_Bar {
     list-style-type: none;
 
