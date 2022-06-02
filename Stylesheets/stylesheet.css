@@ -885,6 +885,8 @@ img.wireframeImg {
 
   body.bArt {
     overflow: scroll;
+    overflow: visible;
+    overflow: auto;
   }
 
   .Web_Nav_Bar {
@@ -897,7 +899,7 @@ img.wireframeImg {
     text-align: center;
 
     margin-top: -4%;
-    margin-left: 20%;
+    margin-left: 5%;
 
     display: grid;
     grid-template-rows: 50px 50px;
@@ -906,11 +908,5 @@ img.wireframeImg {
     row-gap: 1px;
 
     font-size: 20px;
-  }
-}
-
-@media only screen and (max-device-width: 768px) {
-  .mobileView {
-    display: contents;
   }
 }
