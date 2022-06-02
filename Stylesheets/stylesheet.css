@@ -956,6 +956,7 @@ img.wireframeImg {
 
   nav.mNav {
     width: 50%;
+    margin: auto;
   }
 }
 img.mobileImg {
