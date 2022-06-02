@@ -875,7 +875,7 @@ img.wireframeImg {
   }
 }
 
-@media only screen and (max-device-width: 767px) {
+@media only screen and (max-device-width: 480px) {
   .Web_Nav_Bar {
     list-style-type: none;
 
@@ -885,7 +885,7 @@ img.wireframeImg {
     text-align: center;
 
     margin-top: -4%;
-    margin-left: -10%;
+    margin-left: 1%;
 
     display: grid;
     grid-template-rows: 50px 50px;
