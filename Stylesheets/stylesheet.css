@@ -880,3 +880,9 @@ img.wireframeImg {
     display: none;
   }
 }
+
+@media only screen and (max-device-width: 666px) {
+  .mobileView {
+    display: contents;
+  }
+}
