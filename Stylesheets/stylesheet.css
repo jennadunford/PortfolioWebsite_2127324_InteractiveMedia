@@ -881,7 +881,7 @@ img.wireframeImg {
   }
 }
 
-@media only screen and (max-device-width: 666px) {
+@media only screen and (max-device-width: 700px) {
   .mobileView {
     display: contents;
   }
