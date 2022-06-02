@@ -845,3 +845,14 @@ section.designReflection {
   padding: 10%;
   margin-top: -15%;
 }
+
+img.webRef1Img {
+  width: 60%;
+  height: auto;
+  margin-left: 20%;
+}
+
+h4.designSubtitle {
+  font-size: 30px;
+  font-weight: lighter;
+}
