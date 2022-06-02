@@ -882,6 +882,10 @@ img.wireframeImg {
   .mobileView {
     display: contents;
   }
+
+  body.bArt {
+    overflow: visible;
+  }
 }
 
 @media only screen and (max-device-width: 768px) {
