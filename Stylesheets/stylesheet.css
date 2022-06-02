@@ -885,7 +885,7 @@ img.wireframeImg {
     text-align: center;
 
     margin-top: -4%;
-    margin-left: 0%;
+    margin-left: -10%;
 
     display: grid;
     grid-template-rows: 50px 50px;
