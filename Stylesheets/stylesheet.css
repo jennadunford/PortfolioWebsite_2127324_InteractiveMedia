@@ -856,3 +856,7 @@ h4.designSubtitle {
   font-size: 30px;
   font-weight: lighter;
 }
+
+img.wireframeImg {
+  margin-left: 25%;
+}
