@@ -919,7 +919,7 @@ img.wireframeImg {
     list-style-type: none;
 
     padding: 5%;
-    /* width: 30%; */
+    width: 30%;
 
     text-align: center;
 
@@ -956,7 +956,6 @@ img.wireframeImg {
 
   nav.mNav {
     width: 50%;
-    margin: auto;
   }
 }
 img.mobileImg {
