@@ -1069,8 +1069,25 @@ p.cen {
   text-align: center;
 }
 
-@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (-webkit-min-device-pixel-ratio: 3) {
-  .mobileHideBlogList {
-    display: none;
+/* for ipad pro 12.9 inch */
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) {
+  .Web_Nav_Bar {
+    list-style-type: none;
+
+    padding: 5%;
+    width: 30%;
+
+    text-align: center;
+
+    margin-top: -4%;
+    margin-left: 30%;
+
+    display: grid;
+    grid-template-rows: 50px 50px;
+    grid-template-columns: 90px 90px 90px;
+    column-gap: 3px;
+    row-gap: 1px;
+
+    font-size: 20px;
   }
 }
