@@ -207,7 +207,7 @@ ol.blogList {
 li.blogItem {
   display: block;
   border-radius: 3px;
-  background-color: #c4c3d0;
+  background-color: #deddee;
   list-style-type: none;
   width: 90%;
   height: 100px;
@@ -216,21 +216,24 @@ li.blogItem {
 
 h3.blogItemTitle {
   font-weight: lighter;
-  padding: 0%;
+  padding: 1%;
   font-size: 20px;
 }
 
 h4.blogDate {
   font-weight: normal;
   font-size: 15px;
-  padding: 0%;
+  padding: 1%;
   margin-top: -2%;
 }
 
 h5.blogDescription {
   font-weight: normal;
   font-size: 15px;
+  font-style: italic;
   padding: 0%;
+  text-align: center;
+  margin-top: -4%;
 }
 div.blogReadButton a.blogReadButton {
   /*float: right;*/
@@ -240,7 +243,7 @@ div.blogReadButton a.blogReadButton {
   font-weight: lighter;
   margin-right: 90%;
   margin-left: 89%;
-  margin-top: -6%;
+  margin-top: -4%;
   padding: 1%;
   display: block;
   background-color: rgb(116, 114, 145);
