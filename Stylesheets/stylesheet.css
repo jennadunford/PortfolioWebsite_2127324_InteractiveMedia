@@ -1095,7 +1095,7 @@ img.wireframeImg {
     text-decoration: none;
     color: white;
 
-    height: 10px;
+    height: 15px;
 
     text-align: center;
 
@@ -1110,6 +1110,24 @@ img.wireframeImg {
 
   div.mreadText {
     margin-top: -5%;
+  }
+}
+
+@media (max-width: 780px) {
+  a.referenceAccess {
+    width: 30%;
+  }
+
+  a.blogReturn {
+    width: 30%;
+  }
+
+  a.referenceAccess:hover {
+    width: 30%;
+  }
+
+  a.blogReturn:hover {
+    width: 30%;
   }
 }
 img.mobileImg {
