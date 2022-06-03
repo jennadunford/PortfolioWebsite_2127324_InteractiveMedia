@@ -981,6 +981,9 @@ img.wireframeImg {
 }
 
 @media only screen and (max-device-width: 1024px) {
+  .mobileHideBlogList {
+    display: none;
+  }
   .artContentHide {
     display: none;
   }
