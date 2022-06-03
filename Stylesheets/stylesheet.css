@@ -4,6 +4,11 @@ body {
   width: 90%;
 }
 
+p {
+  font-size: 19px;
+  font-weight: lighter;
+}
+
 .ibody {
   overflow: hidden;
 }
