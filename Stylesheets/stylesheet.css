@@ -1285,6 +1285,17 @@ p.cen {
   }
 }
 
+img.wireframeImg2 {
+  width: 60%;
+  height: auto;
+  margin-left: 20%;
+}
+
+article.oldDiscuss {
+  text-align: center;
+  padding: 2%;
+}
+
 /* for ipad pro 12.9 inch */
 /* @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) {
   .Web_Nav_Bar {
