@@ -972,3 +972,23 @@ img.mobileImg {
   width: 100%;
   height: auto;
 }
+
+a.designListItem2 {
+  cursor: pointer;
+  display: block;
+  text-align: center;
+  width: 10%;
+  padding: 1%;
+  border-radius: 3px;
+  background-color: #c4c3d0;
+  margin-left: 45%;
+}
+
+a.designListItem2:hover {
+  background-color: black;
+  color: #c4c3d0;
+}
+
+p.cen {
+  text-align: center;
+}
