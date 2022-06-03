@@ -24,6 +24,24 @@ body {
   font-size: 20px;
 }
 
+p.cen1 {
+  text-align: center;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+p.cen2 {
+  text-align: center;
+  font-size: 30px;
+}
+
+p.cen3 {
+  text-align: center;
+  font-size: 30px;
+  font-weight: lighter;
+  font-style: italic;
+}
+
 ul.decisionTable {
   list-style-type: none;
 
@@ -225,6 +243,58 @@ h4.blogDate {
   font-size: 15px;
   padding: 1%;
   margin-top: -2%;
+}
+
+ul.palette {
+  list-style-type: none;
+  display: grid;
+  grid-template-columns: 71px 71px 71px 71px 71px;
+  margin-left: 32%;
+}
+
+div.whiteBlock {
+  text-align: center;
+  display: block;
+  width: 70px;
+  height: 70px;
+
+  background-color: white;
+}
+
+div.blackBlock {
+  text-align: center;
+  display: block;
+  width: 70px;
+  height: 70px;
+
+  color: #c4c3d0;
+  background-color: black;
+}
+
+div.lavBlock {
+  text-align: center;
+  display: block;
+  width: 70px;
+  height: 70px;
+
+  background-color: #c4c3d0;
+}
+div.lPurp {
+  text-align: center;
+  display: block;
+  width: 70px;
+  height: 70px;
+
+  background-color: #deddee;
+}
+div.dPurp {
+  text-align: center;
+  display: block;
+  width: 70px;
+  height: 70px;
+
+  color: #c4c3d0;
+  background-color: rgb(116, 114, 145);
 }
 
 h5.blogDescription {
