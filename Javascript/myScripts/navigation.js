@@ -1,4 +1,7 @@
 $(window).ready(function () {
+  $(window).resize(function () {
+    location.reload();
+  });
   $(window).on("click", "#home", function () {
     $.ajax({
       type: "HEAD",
