@@ -959,7 +959,7 @@ img.wireframeImg {
   }
 
   .mobileHomeImage {
-    display: none;
+    visibility: hidden;
   }
 
   .mobileShowBlogList {
@@ -980,6 +980,15 @@ img.wireframeImg {
 }
 
 @media (max-width: 1025px) {
+  .mobileHomeImage {
+    visibility: visible;
+    width: 100%;
+  }
+
+  .MindexHands {
+    width: 100%;
+    height: auto;
+  }
   .contactInfo2 {
     display: none;
   }
