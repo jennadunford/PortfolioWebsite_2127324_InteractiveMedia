@@ -955,6 +955,10 @@ img.wireframeImg {
   body.bArt {
     overflow: hidden;
   }
+
+  .mobileHomeImage {
+    display: none;
+  }
 }
 
 @media only screen and (max-device-width: 1024px) {
@@ -1019,6 +1023,15 @@ img.wireframeImg {
 
   nav.mNav {
     width: 50%;
+  }
+
+  div.mobileHomeImage {
+    width: 99%;
+  }
+
+  .MindexHands {
+    width: 100%;
+    height: auto;
   }
 }
 img.mobileImg {
