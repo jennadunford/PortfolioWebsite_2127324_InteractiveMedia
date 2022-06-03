@@ -6,7 +6,7 @@ body {
 .Web_Nav_Bar {
   list-style-type: none;
 
-  margin: auto;
+  /* margin: auto; */
   padding: 5%;
   width: 30%;
 
@@ -255,9 +255,11 @@ ul.palette {
 div.whiteBlock {
   text-align: center;
   display: block;
-  width: 70px;
-  height: 70px;
-
+  width: 68px;
+  height: 68px;
+  border-style: solid;
+  border-width: 0.1px;
+  border-color: black;
   background-color: white;
 }
 
@@ -965,7 +967,50 @@ img.wireframeImg {
   }
 }
 
+@media (max-width: 450px) {
+  ul.palette {
+    grid-template-columns: 71px;
+    grid-template-rows: 71px 71px 71px 71px 71px;
+    margin-top: -5%;
+  }
+}
+
+@media (max-width: 1025px) {
+  .Web_Nav_Bar {
+    margin: 0 auto;
+    list-style-type: none;
+
+    padding: 5%;
+
+    text-align: center;
+    margin-top: -4%;
+    margin-left: 60%;
+
+    display: grid;
+    grid-template-rows: 50px 50px;
+    grid-template-columns: 90px 90px 90px;
+    column-gap: 3px;
+    row-gap: 1px;
+
+    font-size: 20px;
+    position: relative;
+  }
+
+  /* h1.title {
+    margin-left: -5%;
+  } */
+}
+
 @media only screen and (max-device-width: 1024px) {
+  img.wireframeImg {
+    width: 90%;
+    height: auto;
+  }
+
+  ul.palette {
+    width: 100%;
+    margin-left: 30%;
+  }
   .mobileHideBlogList {
     display: none;
   }
@@ -984,27 +1029,6 @@ img.wireframeImg {
     overflow: visible;
     overflow: auto;
     -webkit-overflow-scrolling: touch;
-  }
-
-  .Web_Nav_Bar {
-    list-style-type: none;
-
-    padding: 5%;
-    width: 30%;
-
-    text-align: center;
-
-    margin-top: -4%;
-    /* margin-left: 30%; */
-    margin: auto;
-
-    display: grid;
-    grid-template-rows: 50px 50px;
-    grid-template-columns: 90px 90px 90px;
-    column-gap: 3px;
-    row-gap: 1px;
-
-    font-size: 20px;
   }
 
   h4.artBookTitle {
@@ -1155,8 +1179,68 @@ p.cen {
   text-align: center;
 }
 
+@media (max-width: 700px) {
+  .Web_Nav_Bar {
+    list-style-type: none;
+
+    padding: 5%;
+
+    text-align: center;
+    margin-top: -4%;
+    margin-left: 50%;
+
+    display: grid;
+    grid-template-rows: 50px 50px;
+    grid-template-columns: 90px 90px 90px;
+    column-gap: 3px;
+    row-gap: 1px;
+
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 600px) {
+  .Web_Nav_Bar {
+    list-style-type: none;
+
+    padding: 5%;
+
+    text-align: center;
+    margin-top: -4%;
+    margin-left: 40%;
+
+    display: grid;
+    grid-template-rows: 50px 50px;
+    grid-template-columns: 90px 90px 90px;
+    column-gap: 3px;
+    row-gap: 1px;
+
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 500px) {
+  .Web_Nav_Bar {
+    list-style-type: none;
+
+    padding: 5%;
+
+    text-align: center;
+    margin-top: -4%;
+    margin-left: 20%;
+
+    display: grid;
+    grid-template-rows: 50px 50px;
+    grid-template-columns: 90px 90px 90px;
+    column-gap: 3px;
+    row-gap: 1px;
+
+    font-size: 20px;
+  }
+}
+
 /* for ipad pro 12.9 inch */
-@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) {
+/* @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) {
   .Web_Nav_Bar {
     list-style-type: none;
 
@@ -1214,8 +1298,6 @@ p.cen {
   }
 
   div.mblogReadButton a.mblogReadButton {
-    /*float: right;*/
-
     width: 93px;
 
     font-weight: lighter;
@@ -1246,4 +1328,4 @@ p.cen {
   div.mreadText {
     margin-top: -5%;
   }
-}
+} */
