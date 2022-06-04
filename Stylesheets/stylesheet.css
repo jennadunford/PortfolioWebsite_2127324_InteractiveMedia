@@ -42,6 +42,7 @@ p.cen1 {
 p.cen2 {
   text-align: center;
   font-size: 30px;
+  font-weight: bold;
 }
 
 p.cen3 {
@@ -379,6 +380,10 @@ section.BlogContent {
   margin-top: -8%;
 }
 
+.b {
+  font-weight: bold;
+  text-align: center;
+}
 h3.blogDatePosted {
   font-weight: lighter;
   font-size: 30px;
