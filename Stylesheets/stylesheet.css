@@ -1294,6 +1294,12 @@ img.wireframeImg2 {
 article.oldDiscuss {
   text-align: center;
   padding: 2%;
+  width: 60%;
+  margin-left: 20%;
+}
+
+ol.sChanges {
+  list-style-type: none;
 }
 
 /* for ipad pro 12.9 inch */
