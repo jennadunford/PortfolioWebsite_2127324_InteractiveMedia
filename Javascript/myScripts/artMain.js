@@ -52,9 +52,3 @@ $(window).on("click", "#prev", function () {
 $(window).on("click", "#next", function () {
   $("#portfolio").turn("next");
 });
-
-//$(window).bind("start", function (event, pageObject, corner) {
-//if (corner == "tl" || corner == "tr" || corner == "bl" || corner == "br") {
-//event.preventDefault();
-//}
-//});
