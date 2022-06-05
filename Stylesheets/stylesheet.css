@@ -1312,7 +1312,7 @@ ol.sChanges {
 }
 
 /* for ipad pro 12.9 inch */
-/* @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) {
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) {
   .Web_Nav_Bar {
     list-style-type: none;
 
@@ -1400,4 +1400,14 @@ ol.sChanges {
   div.mreadText {
     margin-top: -5%;
   }
-} */
+
+  .mobileHomeImage {
+    visibility: visible;
+    width: 100%;
+  }
+
+  .MindexHands {
+    width: 100%;
+    height: auto;
+  }
+}
