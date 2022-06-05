@@ -1410,4 +1410,7 @@ ol.sChanges {
     width: 100%;
     height: auto;
   }
+  section.mobileShowBlogList {
+    width: 95%;
+  }
 }
