@@ -992,8 +992,8 @@ img.wireframeImg {
     margin-top: -5%;
   }
 }
-
-@media (max-width: 1025px) {
+/*changed this from 1025 to 1024*/
+@media (max-width: 1024px) {
   .mobileHomeImage {
     visibility: visible;
     width: 100%;
