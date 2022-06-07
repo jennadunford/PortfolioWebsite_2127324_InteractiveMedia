@@ -1313,6 +1313,10 @@ ol.sChanges {
 
 /* for ipad pro 12.9 inch */
 @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) {
+  .mobileShowBlogList {
+    display: contents;
+    display: inline;
+  }
   .Web_Nav_Bar {
     list-style-type: none;
 
