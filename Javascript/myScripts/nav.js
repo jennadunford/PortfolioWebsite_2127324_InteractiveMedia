@@ -19,7 +19,7 @@ $(window).ready(function () {
   });
 
   $(window).on("click", "#design", function () {
-    window.location.href = "4_Design/designHome.html";
+    window.location.href = "4_Design/designHomev2.html";
   });
 
   $(window).on("click", "#contact", function () {
