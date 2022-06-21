@@ -862,13 +862,13 @@ div.table_of_contents_artBook {
 
 ul.art_list_of_contents {
   list-style-type: none;
-  margin-top: -15%;
+  margin-top: 28%;
 
   margin-left: -20%;
   display: grid;
-  grid-template-columns: 200px 200px 200px 200px 200px 200px 200px 200px;
+  grid-template-columns: 180px 180px 200px 180px 180px 200px 180px 180px;
   grid-template-rows: 20px;
-  column-gap: 0px;
+  /* column-gap: 0px; */
 }
 
 /* li.artIndex {
