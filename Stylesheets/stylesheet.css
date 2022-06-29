@@ -1611,3 +1611,25 @@ ol.sChanges {
     width: 30%;
   }
 }
+
+.nextButton {
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 20%;
+}
+
+a.blogButs {
+  background-color: #c4c3d0;
+  color: black;
+  padding: 4px;
+  margin: 4px;
+  font-weight: lighter;
+  border-radius: 3px;
+}
+
+a.blogButs:hover {
+  background-color: black;
+  color: #c4c3d0;
+  cursor: pointer;
+}
