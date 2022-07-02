@@ -492,9 +492,9 @@ img.adventureImg {
   transition: transform 0.2s;
 }
 
-img.adventureImg:hover {
+/* img.adventureImg:hover {
   transform: scale(3);
-}
+} */
 
 img.monsterImg {
   width: 50%;
@@ -502,9 +502,9 @@ img.monsterImg {
   transition: transform 0.2s;
 }
 
-img.monsterImg:hover {
+/* img.monsterImg:hover {
   transform: scale(2);
-}
+} */
 
 img.icyImg {
   width: 90%;
@@ -512,9 +512,9 @@ img.icyImg {
   transition: transform 0.2s;
 }
 
-img.icyImg:hover {
+/* img.icyImg:hover {
   transform: scale(2.3);
-}
+} */
 
 img.fFlowerShopImg {
   width: 57%;
@@ -523,9 +523,9 @@ img.fFlowerShopImg {
   transition: transform 0.2s;
 }
 
-img.fFlowerShopImg:hover {
+/* img.fFlowerShopImg:hover {
   transform: scale(2);
-}
+} */
 
 img.bFlowerShopImg {
   width: 62%;
@@ -534,9 +534,9 @@ img.bFlowerShopImg {
   transition: transform 0.2s;
 }
 
-img.bFlowerShopImg:hover {
+/* img.bFlowerShopImg:hover {
   transform: scale(2);
-}
+} */
 
 img.cWitchImg {
   width: 65%;
@@ -544,9 +544,9 @@ img.cWitchImg {
   margin-left: 20%;
   transition: transform 0.2s;
 }
-img.cWitchImg:hover {
+/* img.cWitchImg:hover {
   transform: scale(1.5);
-}
+} */
 
 img.fCityWitch {
   width: 65%;
@@ -555,9 +555,9 @@ img.fCityWitch {
   transition: transform 0.2s;
 }
 
-img.fCityWitch:hover {
+/* img.fCityWitch:hover {
   transform: scale(1.5);
-}
+} */
 
 img.cthingsImg {
   width: 50%;
@@ -566,9 +566,9 @@ img.cthingsImg {
   transition: transform 0.2s;
 }
 
-img.cthingsImg:hover {
+/* img.cthingsImg:hover {
   transform: scale(2.5);
-}
+} */
 
 img.skyWitchImg {
   width: 80%;
@@ -576,10 +576,10 @@ img.skyWitchImg {
   margin-left: 15%;
   transition: transform 0.2s;
 }
-
+/* 
 img.skyWitchImg:hover {
   transform: scale(2);
-}
+} */
 
 img.stairWitchImg {
   width: 50%;
@@ -588,9 +588,9 @@ img.stairWitchImg {
   transition: transform 0.2s;
 }
 
-img.stairWitchImg:hover {
+/* img.stairWitchImg:hover {
   transform: scale(1.5);
-}
+} */
 
 img.morningWitchesImg {
   width: 65%;
@@ -599,9 +599,9 @@ img.morningWitchesImg {
   transition: transform 0.2s;
 }
 
-img.morningWitchesImg:hover {
+/* img.morningWitchesImg:hover {
   transform: scale(1.5);
-}
+} */
 
 img.nightWitchesImg {
   width: 65%;
@@ -610,9 +610,9 @@ img.nightWitchesImg {
   transition: transform 0.2s;
 }
 
-img.nightWitchesImg:hover {
+/* img.nightWitchesImg:hover {
   transform: scale(1.5);
-}
+} */
 
 img.animeRetroImg {
   width: 65%;
@@ -621,9 +621,9 @@ img.animeRetroImg {
   transition: transform 0.2s;
 }
 
-img.animeRetroImg:hover {
+/* img.animeRetroImg:hover {
   transform: scale(1.5);
-}
+} */
 
 img.cherryGirlImg {
   width: 80%;
@@ -631,10 +631,10 @@ img.cherryGirlImg {
   margin-left: 10%;
   transition: transform 0.2s;
 }
-
+/* 
 img.cherryGirlImg:hover {
   transform: scale(1.5);
-}
+} */
 
 img.benchtWitchImg {
   width: 45%;
@@ -643,9 +643,9 @@ img.benchtWitchImg {
   transition: transform 0.2s;
 }
 
-img.benchtWitchImg:hover {
+/* img.benchtWitchImg:hover {
   transform: scale(3);
-}
+} */
 
 img.flyingWitchImg {
   width: 45%;
@@ -654,9 +654,9 @@ img.flyingWitchImg {
   transition: transform 0.2s;
 }
 
-img.flyingWitchImg:hover {
+/* img.flyingWitchImg:hover {
   transform: scale(3);
-}
+} */
 
 img.colorfulPortraitImg {
   width: 80%;
@@ -664,9 +664,9 @@ img.colorfulPortraitImg {
   margin-left: 10%;
   transition: transform 0.2s;
 }
-img.colorfulPortraitImg:hover {
+/* img.colorfulPortraitImg:hover {
   transform: scale(1.5);
-}
+} */
 
 img.fieldImg {
   width: 100%;
@@ -674,10 +674,10 @@ img.fieldImg {
   transition: transform 0.2s;
   margin-top: 2%;
 }
-
+/* 
 img.fieldImg:hover {
   transform: scale(1.5);
-}
+} */
 
 img.flowImg {
   width: 70%;
@@ -686,9 +686,9 @@ img.flowImg {
   transition: transform 0.2s;
 }
 
-img.flowImg:hover {
+/* img.flowImg:hover {
   transform: scale(1.5);
-}
+} */
 
 img.handsImg {
   width: 65%;
@@ -697,9 +697,9 @@ img.handsImg {
   transition: transform 0.2s;
 }
 
-img.handsImg:hover {
+/* img.handsImg:hover {
   transform: scale(1.5);
-}
+} */
 
 img.sAndMoonImg {
   width: 65%;
@@ -707,10 +707,10 @@ img.sAndMoonImg {
   margin-left: 20%;
   transition: transform 0.2s;
 }
-
+/* 
 img.sAndMoonImg:hover {
   transform: scale(1.5);
-}
+} */
 
 img.nightWaterImg {
   width: 50%;
@@ -719,9 +719,9 @@ img.nightWaterImg {
   transition: transform 0.2s;
 }
 
-img.nightWaterImg:hover {
+/* img.nightWaterImg:hover {
   transform: scale(1.5);
-}
+} */
 
 img.rainicornImg {
   width: 40%;
@@ -729,11 +729,11 @@ img.rainicornImg {
   margin-left: 30%;
   transition: transform 0.2s;
 }
-
+/* 
 img.rainicornImg:hover {
   margin-top: -35%;
   transform: scale(2);
-}
+} */
 
 img.ponyoImg {
   width: 45%;
@@ -741,11 +741,11 @@ img.ponyoImg {
   margin-left: 30%;
   transition: transform 0.2s;
 }
-
+/* 
 img.ponyoImg:hover {
   margin-top: -30%;
   transform: scale(2);
-}
+} */
 
 img.fAndJakeImg {
   width: 100%;
@@ -753,9 +753,9 @@ img.fAndJakeImg {
   transition: transform 0.2s;
 }
 
-img.fAndJakeImg:hover {
+/* img.fAndJakeImg:hover {
   transform: scale(2);
-}
+} */
 
 img.gokuImg {
   width: 100%;
@@ -763,9 +763,9 @@ img.gokuImg {
   transition: transform 0.2s;
 }
 
-img.gokuImg:hover {
+/* img.gokuImg:hover {
   transform: scale(2);
-}
+} */
 
 img.linkImg {
   width: 80%;
@@ -774,9 +774,9 @@ img.linkImg {
   transition: transform 0.2s;
 }
 
-img.linkImg:hover {
+/* img.linkImg:hover {
   transform: scale(2);
-}
+} */
 
 img.archerImg {
   width: 50%;
@@ -785,9 +785,9 @@ img.archerImg {
   transition: transform 0.2s;
 }
 
-img.archerImg:hover {
+/* img.archerImg:hover {
   transform: scale(2);
-}
+} */
 
 #portfolio {
   width: 1300px;
@@ -804,10 +804,10 @@ img.artBookCover {
   margin-top: 18%;
   transition: transform 0.2s;
 }
-
+/*
 img.artBookCover:hover {
   transform: scale(3);
-}
+}*/
 
 img.toolsImage {
   width: 100%;
@@ -815,9 +815,9 @@ img.toolsImage {
   transition: transform 0.2s;
 }
 
-img.toolsImage:hover {
+/* img.toolsImage:hover {
   transform: scale(2);
-}
+} */
 .artBook1 {
   position: relative;
   text-align: center;
@@ -1636,12 +1636,11 @@ a.blogButs:hover {
 
 h4.carouselContent {
   font-weight: lighter;
-  font-size: 30px;
+  font-size: 40px;
   /*text-align: center;*/
 }
 
 .creationsBoxes {
-  background-color: #deddee;
   border-radius: 8px;
   width: 60%;
   text-indent: 10px;

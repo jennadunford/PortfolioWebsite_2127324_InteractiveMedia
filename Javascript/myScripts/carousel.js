@@ -6,7 +6,8 @@ $(document).ready(function () {
     fade: true,
     cssEase: "linear",
     autoplay: true,
-    autoplaySpeed: 2000,
+    autoplaySpeed: 1500,
+    arrows: false,
   });
 
   $(".creationsCarousel").slick({
@@ -14,7 +15,7 @@ $(document).ready(function () {
     slidesToShow: 1,
     slidesToScroll: 1,
     dots: true,
-    arrows: true,
+    arrows: false,
   });
 
   $(".inspirationsCarousel").slick({
@@ -22,7 +23,6 @@ $(document).ready(function () {
     slidesToShow: 1,
     slidesToScroll: 1,
     dots: true,
-    arrows: true,
-    fade: true,
+    arrows: false,
   });
 });
