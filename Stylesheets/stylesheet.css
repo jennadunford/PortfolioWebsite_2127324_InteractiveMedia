@@ -1639,3 +1639,11 @@ h4.carouselContent {
   font-size: 30px;
   /*text-align: center;*/
 }
+
+.creationsBoxes {
+  background-color: #deddee;
+  border-radius: 8px;
+  width: 60%;
+  text-indent: 10px;
+  text-align: center;
+}
