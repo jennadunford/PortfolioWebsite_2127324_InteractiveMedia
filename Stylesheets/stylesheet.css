@@ -1646,3 +1646,7 @@ h4.carouselContent {
   text-indent: 10px;
   text-align: center;
 }
+
+.refCenter {
+  margin: 0 auto;
+}

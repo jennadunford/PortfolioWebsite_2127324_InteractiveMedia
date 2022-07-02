@@ -16,6 +16,7 @@ $(document).ready(function () {
     slidesToScroll: 1,
     dots: true,
     arrows: false,
+    fade: true,
   });
 
   $(".inspirationsCarousel").slick({
@@ -24,5 +25,6 @@ $(document).ready(function () {
     slidesToScroll: 1,
     dots: true,
     arrows: false,
+    fade: true,
   });
 });
