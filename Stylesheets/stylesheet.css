@@ -1633,3 +1633,9 @@ a.blogButs:hover {
   color: #c4c3d0;
   cursor: pointer;
 }
+
+h4.carouselContent {
+  font-weight: lighter;
+  font-size: 30px;
+  /*text-align: center;*/
+}
