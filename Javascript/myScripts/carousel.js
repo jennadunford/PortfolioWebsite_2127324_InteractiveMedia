@@ -6,7 +6,7 @@ $(document).ready(function () {
     fade: true,
     cssEase: "linear",
     autoplay: true,
-    autoplaySpeed: 1500,
+    autoplaySpeed: 1300,
     arrows: false,
   });
 
@@ -16,7 +16,8 @@ $(document).ready(function () {
     slidesToScroll: 1,
     dots: true,
     arrows: false,
-    fade: true,
+    fade: false,
+    adaptiveHeight: true,
   });
 
   $(".inspirationsCarousel").slick({
@@ -26,5 +27,6 @@ $(document).ready(function () {
     dots: true,
     arrows: false,
     fade: true,
+    adaptiveHeight: true,
   });
 });

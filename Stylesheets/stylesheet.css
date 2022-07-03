@@ -1650,3 +1650,32 @@ h4.carouselContent {
 .refCenter {
   margin: 0 auto;
 }
+
+.inspoImage {
+  width: 20%;
+  margin: 0 auto;
+}
+
+.inspoImage2 {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.inspoImage3 {
+  width: 10%;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+
+.inspoText {
+  width: 70%;
+  margin: 0 auto;
+}
+
+a.hov:hover {
+  cursor: pointer;
+}
+
+.lang {
+  font-size: 25px;
+}
