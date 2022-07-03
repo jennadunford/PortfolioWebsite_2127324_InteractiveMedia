@@ -196,6 +196,13 @@ li.nav_grid_item2 a {
 }
 
 li.nav_grid_item2 a:hover {
+  text-decoration: none;
+  color: #c4c3d0;
+  font-weight: lighter;
+  display: block;
+  background-color: black;
+  padding: 5%;
+  border-radius: 3px;
   cursor: pointer;
 }
 
