@@ -102,7 +102,7 @@ li.decisionTableItem {
 }
 
 .contactInfoItem {
-  border: 1px solid black;
+  /* border: 1px solid black; */
   padding: 1%;
   font-weight: lighter;
   text-decoration: none;

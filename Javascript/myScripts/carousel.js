@@ -6,7 +6,7 @@ $(document).ready(function () {
     fade: true,
     cssEase: "linear",
     autoplay: true,
-    autoplaySpeed: 1300,
+    autoplaySpeed: 1200,
     arrows: false,
     mobileFirst: true,
   });
