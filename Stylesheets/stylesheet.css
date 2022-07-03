@@ -185,6 +185,20 @@ li.nav_grid_item a {
   border-radius: 3px;
 }
 
+li.nav_grid_item2 a {
+  text-decoration: none;
+  color: #c4c3d0;
+  font-weight: lighter;
+  display: block;
+  background-color: black;
+  padding: 5%;
+  border-radius: 3px;
+}
+
+li.nav_grid_item2 a:hover {
+  cursor: pointer;
+}
+
 li.nav_grid_item a:hover {
   text-decoration: none;
   color: #c4c3d0;
@@ -463,6 +477,7 @@ a.referenceAccess:hover {
 
 h4.blogSubtitle {
   font-weight: lighter;
+  font-size: 25px;
 }
 
 h3.artTitle {

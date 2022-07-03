@@ -8,6 +8,7 @@ $(document).ready(function () {
     autoplay: true,
     autoplaySpeed: 1300,
     arrows: false,
+    mobileFirst: true,
   });
 
   $(".creationsCarousel").slick({
@@ -18,6 +19,7 @@ $(document).ready(function () {
     arrows: false,
     fade: false,
     adaptiveHeight: true,
+    mobileFirst: true,
   });
 
   $(".inspirationsCarousel").slick({
@@ -28,5 +30,6 @@ $(document).ready(function () {
     arrows: false,
     fade: true,
     adaptiveHeight: true,
+    mobileFirst: true,
   });
 });
