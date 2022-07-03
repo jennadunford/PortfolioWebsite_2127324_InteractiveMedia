@@ -1679,3 +1679,8 @@ a.hov:hover {
 .lang {
   font-size: 25px;
 }
+
+.onPage {
+  background-color: black;
+  color: #c4c3d0;
+}
