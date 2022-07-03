@@ -884,13 +884,14 @@ div.table_of_contents_artBook {
 
 ul.art_list_of_contents {
   list-style-type: none;
-  margin-top: 28%;
 
-  margin-left: -20%;
+  margin-left: 80%;
+  margin-top: 30%;
   display: grid;
-  grid-template-columns: 180px 180px 200px 180px 180px 200px 180px 180px;
-  grid-template-rows: 20px;
-  /* column-gap: 0px; */
+  grid-template-columns: 110px 110px 130px 65px 65px 125px 50px 100px;
+  grid-template-rows: 30px;
+  column-gap: 10px 10px 10px 10px 10px 10px 10px 10px;
+  width: 80%;
 }
 
 /* li.artIndex {
@@ -912,9 +913,8 @@ button.artButton {
 
   display: block;
   background-color: #c4c3d0;
-  width: 60%;
-  height: 100%;
   border-radius: 2px;
+  padding: 3px;
 }
 
 button.artButton:hover {
