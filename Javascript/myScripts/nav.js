@@ -73,4 +73,8 @@ $(window).ready(function () {
   $(window).on("click", "#reflectionBlog", function () {
     window.location.href = "3_Blogs/blogReflect.html";
   });
+
+  $(window).on("click", "#blog7", function () {
+    window.location.href = "3_Blogs/blog7.html";
+  });
 });

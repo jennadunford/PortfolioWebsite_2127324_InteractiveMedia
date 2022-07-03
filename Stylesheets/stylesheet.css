@@ -1684,3 +1684,7 @@ a.hov:hover {
   background-color: black;
   color: #c4c3d0;
 }
+
+.dIntro {
+  text-align: center;
+}
